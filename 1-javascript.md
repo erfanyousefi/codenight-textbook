@@ -369,7 +369,6 @@ console.log( MathUtil.sum(2,5) ); // 7
 ## منابع کمکی
 
 - [MDN JavaScript Documentation](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-- [n8n JavaScript Code Node Docs](https://docs.n8n.io/code/builtin/overview/)
 
 ---
 
