@@ -105,7 +105,7 @@
 
 - [وب‌سایت رسمی بوت‌کمپ کدنایت](https://codenight.ir/bootcamp)
 - [کانال تلگرام](https://t.me/codenight_ir)
-- [راه ارتباطی با پشتیبانی](mailto:info@codenight.ir)
+- [راه ارتباطی با پشتیبانی](https://t.me/codenight_support)
 
 ---
 
